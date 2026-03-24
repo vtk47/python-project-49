@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/vtk47/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/vtk47/python-project-49/actions)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hexlet-boilerplates_python-package&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=vtk47_python-project-49)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=vtk47_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=vtk47_python-project-49)
 
 ### Links
 
